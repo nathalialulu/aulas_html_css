@@ -1,3 +1,9 @@
 h1 {
-    color: aquamarine;
+    color: black;
+}
+
+p {
+    color: black;
+    background: wheat ;
+    font-size: 24px;
 }

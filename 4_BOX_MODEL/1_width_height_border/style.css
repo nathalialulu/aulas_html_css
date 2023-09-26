@@ -1,0 +1,23 @@
+.caixa_width {
+    /* espessura, tipo e a cor => width, style, color */
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: antiquewhite; */
+
+    /* shorthand=> varios valores na mesma propriedade */
+    border: 2px solid antiquewhite;
+    
+    width: 200px;
+}
+
+.imagem_width{
+    width: 300px;
+}
+
+.caixa_height {
+
+    border: 3px dashed #Add8e6;
+
+    height: 100px;
+    width: 100px;
+}
